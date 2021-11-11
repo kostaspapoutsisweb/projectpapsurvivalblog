@@ -1,6 +1,6 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Project PAP Survival Blog
+description: Το blog του Project PAP Survival!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
