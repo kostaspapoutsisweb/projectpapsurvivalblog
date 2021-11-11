@@ -22,9 +22,9 @@
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Customizing
+## Προσαρμογή
 
-### Configuration variables
+### Μεταβλητές παραμετροποίησης
 
 Cayman will respect the following variables, if set in your site's `_config.yml`:
 
