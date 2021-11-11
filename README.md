@@ -92,7 +92,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 ## Συμβάλλοντας
 
-Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Ενδιαφέρεστε να συνεισφέρετε στο Project PAP Survival Blog; Θα θέλαμε τη βοήθειά σας. Το Project PAP Survival Blog είναι ένα έργο ανοιχτού κώδικα, που δημιουργείται από χρήστες σαν εσάς. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
 ### Previewing the theme locally
 
