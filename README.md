@@ -82,7 +82,7 @@ google_analytics: [Το Google Analytics tracking ID]
     ```
 3. Όταν δημιουργηθεί ο ιστότοπός σας, ο Jekyll θα χρησιμοποιήσει τη διεύθυνση URL που καθορίσατε, αντί για την προεπιλεγμένη διεύθυνση που παρέχεται από το GitHub.
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+*Σημείωση: Πρέπει να καταργήσετε το πρόθεμα `site.`, και κάθε όνομα μεταβλητής (μετά το `github.`) αφήνοντας μία εσοχή δύο κενών κάτω από το `github:`.*
 
 For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
