@@ -33,11 +33,11 @@ title: [Ο τίτλος του ιστοτόπου σας]
 description: [Το σλόγκαν του ιστοτόπου σας]
 ```
 
-Additionally, you may choose to set the following optional variables:
+Επιπλέον, μπορείτε να επιλέξετε να ορίσετε τις ακόλουθες προαιρετικές μεταβλητές:
 
 ```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: ["true" or "false" (unquoted) για να εμφανισθεί ή όχι ένα κουμπί λήψης.]
+google_analytics: [Το Google Analytics tracking ID]
 ```
 
 ### Stylesheet
