@@ -16,7 +16,7 @@
     - jekyll-remote-theme # add this line to the plugins list if you already have one
     ```
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+2. Προαιρετικά, εάν θέλετε να κάνετε προεπισκόπηση του ιστότοπού σας στον υπολογιστή σας, προσθέστε τα ακόλουθα στο `Gemfile` του ιστοτόπου σας:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
