@@ -86,13 +86,9 @@ google_analytics: [Το Google Analytics tracking ID]
 
 Για περισσότερες πληροφορίες δείτε [την τεκμηρίωση των μεταβλητών Jekyll](https://jekyllrb.com/docs/variables/) (στα αγγλικά).
 
-## Roadmap
+## Φιλοσοφία έργου
 
-See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+Ο ιδιοκτήτης του καναλιού με το όνομα [Project PAP](https://projectpap.gq) έχει φτιάξει για το κοινό του και όχι μόνο έναν survival server στο minecraft και καθώς θέλει να ενημερώνει τους παίκτες αυτού του server για τα update  μέσω ενός blog αποφάσισε να το κάνει ανοιχτού κώδικα καθώς δεν ξέρει πάρα πολλά από site develop με σκοπό να μπορεί να αναπτυχθεί το blog χωρίς να υπάρχει το πρόβλημα της μη γνώσης site develop. Μαζί θα τα καταφέρουμε καλύτερα από έναν ειδικό στον προγραμματισμό!
 
 ## Contributing
 
