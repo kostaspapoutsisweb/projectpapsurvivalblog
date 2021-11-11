@@ -4,11 +4,11 @@
 
 ![Thumbnail of Project PAP Survival Blog](logo.png)
 
-## Usage
+## Χρήση
 
-To use the Cayman theme:
+Για να χρησιμοποιήσετε το γνήσιο θέμα ονόματι cayman:
 
-1. Add the following to your site's `_config.yml`:
+1. Εισάγετε τα ακόλουθα στο `_config.yml` του ιστοτόπου σας:
 
     ```yml
     remote_theme: pages-themes/cayman@v0.2.0
