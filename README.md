@@ -62,7 +62,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 1. Για ορισμένες αλλαγές όπως ένα προσαρμοσμένο `favicon`, μπορείτε να προσθέσετε προσαρμοσμένα αρχεία στο τοπικό σας φάκελο `_includes`. Τα αρχεία [που παρέχονται με το θέμα](https://github.com/pages-themes/cayman/tree/master/_includes) παρέχουν ένα σημείο εκκίνησης και περιλαμβάνονται στο [αρχικό πρότυπο διάταξης](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
 2. Για ποιο εκτενείς αλλαγές, [αντιγράψτε το αρχικό πρότυπο](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) από το αποθετήριο του θέματος.<br />(*Επαγγελματική συμβουλή: κάντε κλικ στο "raw" για να το αντιγράψετε ευκολότερα*)
-3. Create a file called `/_layouts/default.html` in your site
+3. Δημιουργήστε ένα αρχείο στον ιστότοπό σας και ονομάστε το `/_layouts/default.html`.
 4. Paste the default layout content copied in the first step
 5. Customize the layout as you'd like
 
