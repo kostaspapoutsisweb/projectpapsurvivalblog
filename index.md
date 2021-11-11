@@ -2,7 +2,7 @@
 layout: projectpapsurvivalblog
 ---
 
-[Σχετικά με το Blog](./about-blog.html).
+[Σχετικά με το Blog](./about-blog).
 
 Καλώς ήρθατε στο Blog μας!
 
