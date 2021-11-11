@@ -1,8 +1,5 @@
-title: Project PAP Survival Blog
-description: Το blog του Minecraft Server Project PAP Survival!
-show_downloads: false
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
