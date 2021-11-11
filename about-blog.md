@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: projectpapsurvivalblog
 title: Σχετικά με το blog μας
 description: Εδώ μπορείτε να βρείτε τις πληροφορίες για το blog αυτό!
 ---
