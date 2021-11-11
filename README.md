@@ -26,11 +26,11 @@
 
 ### Μεταβλητές παραμετροποίησης
 
-Cayman will respect the following variables, if set in your site's `_config.yml`:
+Το cayman πρέπει να περιλαμβάνει τα ακόλουθα στο `_config.yml` για να ρυθμιστεί το site σας:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Ο τίτλος του ιστοτόπου σας]
+description: [Το σλόγκαν του ιστοτόπου σας]
 ```
 
 Additionally, you may choose to set the following optional variables:
