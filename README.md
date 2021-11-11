@@ -71,7 +71,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 ### Παράκαμψη διευθύνσεων URL που δημιουργούνται από το GitHub
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+Τα πρότυπα βασίζονται συχνά σε διευθύνσεις URL που παρέχονται από το GitHub, όπως συνδέσμους προς το αποθετήριο σας ή συνδέσμους για λήψη του έργου σας. Εάν θέλετε να αντικαταστήσετε μία ή περισσότερες προεπιλεγμένες διευθύνσεις URL:
 
 1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
 2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
