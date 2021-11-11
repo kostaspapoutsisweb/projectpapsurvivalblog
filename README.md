@@ -42,10 +42,10 @@ google_analytics: [Το Google Analytics tracking ID]
 
 ### Φύλο στύλ
 
-If you'd like to add your own custom styles:
+Εάν θέλετε να προσθέσετε τα δικά σας προσαρμοσμένα στυλ:
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
+1. Φτιάξτε ένα αρχείο μέσα στον ιστότοπό σας και ονομάστε το `/assets/css/style.scss`
+2. Προσθέστε το ακόλουθο περιεχόμενο στην κορυφή του αρχείου, ακριβώς όπως φαίνεται:
     ```scss
     ---
     ---
