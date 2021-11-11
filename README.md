@@ -67,7 +67,7 @@ google_analytics: [Το Google Analytics tracking ID]
 5. Προσαρμόστε τη διάταξη όπως θέλετε.
 ### Προσαρμογή κώδικα Google Analytics
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+Η Google έχει κυκλοφορήσει πολλές αλλαγές στον κώδικα του Google Analytics όλα αυτά τα χρόνια από τότε που δημιουργήθηκε για πρώτη φορά αυτό το θέμα. Εάν θέλετε να επωφεληθείτε από τον πιο πρόσφατο κώδικα, επικολλήστε τον στο `_includes/head-custom-google-analytics.html` στον ιστότοπό σας Jekyll.
 
 ### Overriding GitHub-generated URLs
 
