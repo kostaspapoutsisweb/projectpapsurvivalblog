@@ -60,7 +60,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 Εάν θέλετε να αλλάξετε τη διάταξη HTML του θέματος:
 
-1. Για ορισμένες αλλαγές όπως ένα προσαρμοσμένο `favicon`, μπορείτε να προσθέσετε προσαρμοσμένα αρχεία στο τοπικό σας φάκελο `_includes`. The files [provided with the theme](https://github.com/pages-themes/cayman/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
+1. Για ορισμένες αλλαγές όπως ένα προσαρμοσμένο `favicon`, μπορείτε να προσθέσετε προσαρμοσμένα αρχεία στο τοπικό σας φάκελο `_includes`. Τα αρχεία [που παρέχονται με το θέμα](https://github.com/pages-themes/cayman/tree/master/_includes) παρέχουν ένα σημείο εκκίνησης και περιλαμβάνονται στο [αρχικό πρότυπο διάταξης](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
 2. For more extensive changes, [copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
 3. Create a file called `/_layouts/default.html` in your site
 4. Paste the default layout content copied in the first step
