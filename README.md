@@ -80,7 +80,7 @@ google_analytics: [Το Google Analytics tracking ID]
       zip_url: http://example.com/download.zip
       another_url: another value
     ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+3. Όταν δημιουργηθεί ο ιστότοπός σας, ο Jekyll θα χρησιμοποιήσει τη διεύθυνση URL που καθορίσατε, αντί για την προεπιλεγμένη διεύθυνση που παρέχεται από το GitHub.
 
 *Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
 
