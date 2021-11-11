@@ -40,7 +40,7 @@ show_downloads: ["true" or "false" (unquoted) για να εμφανισθεί �
 google_analytics: [Το Google Analytics tracking ID]
 ```
 
-### Stylesheet
+### Φύλο στύλ
 
 If you'd like to add your own custom styles:
 
