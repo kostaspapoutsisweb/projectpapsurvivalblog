@@ -1,6 +1,6 @@
 # The Project PAP Survival Blog
 
-*Το Project PAP Survival Blog είναι ένα blog για να διαβάζετε τα νέα του server μας και φιλοξενείτε από το GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+*Το Project PAP Survival Blog είναι ένα blog για να διαβάζετε τα νέα του server μας και φιλοξενείτε από το GitHub Pages. Μπορείτε να [δείτε την επίσημη διανομή αυτού του θέματος εδώ](http://pages-themes.github.io/cayman) και στο μέλλον ίσως φτιάξουμε μια δική μας ξεχωριστή διανομή.*
 
 ![Thumbnail of Cayman](thumbnail.png)
 
