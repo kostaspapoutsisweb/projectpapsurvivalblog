@@ -54,7 +54,7 @@ google_analytics: [Το Google Analytics tracking ID]
     ```
 3. Προσθέστε οποιοδήποτε προσαρμοσμένο CSS (ή Sass, συμπεριλαμβανομένων των εισαγωγών) που θέλετε αμέσως μετά τη γραμμή `@import`
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+*Σημείωση: Εάν θέλετε να αλλάξετε τις μεταβλητές Sass του θέματος, πρέπει να ορίσετε νέες τιμές πριν από τη γραμμή `@import` στο φύλλο στυλ σας!*
 
 ### Layouts
 
