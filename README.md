@@ -84,7 +84,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 *Σημείωση: Πρέπει να καταργήσετε το πρόθεμα `site.`, και κάθε όνομα μεταβλητής (μετά το `github.`) αφήνοντας μία εσοχή δύο κενών κάτω από το `github:`.*
 
-Για περισσότερες πληροφορίες δείτε [την τεκμηρίωση των μεταβλητών Jekyll](https://jekyllrb.com/docs/variables/).
+Για περισσότερες πληροφορίες δείτε [την τεκμηρίωση των μεταβλητών Jekyll](https://jekyllrb.com/docs/variables/) (στα αγγλικά).
 
 ## Roadmap
 
