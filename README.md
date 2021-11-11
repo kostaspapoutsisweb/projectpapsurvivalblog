@@ -56,9 +56,9 @@ google_analytics: [Το Google Analytics tracking ID]
 
 *Σημείωση: Εάν θέλετε να αλλάξετε τις μεταβλητές Sass του θέματος, πρέπει να ορίσετε νέες τιμές πριν από τη γραμμή `@import` στο φύλλο στυλ σας!*
 
-### Layouts
+### Διατάξεις
 
-If you'd like to change the theme's HTML layout:
+Εάν θέλετε να αλλάξετε τη διάταξη HTML του θέματος:
 
 1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/cayman/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
 2. For more extensive changes, [copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
