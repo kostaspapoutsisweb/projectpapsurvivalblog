@@ -90,7 +90,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 Ο ιδιοκτήτης του καναλιού με το όνομα [Project PAP](https://projectpap.gq) έχει φτιάξει για το κοινό του και όχι μόνο έναν survival server στο minecraft και καθώς θέλει να ενημερώνει τους παίκτες αυτού του server για τα update  μέσω ενός blog αποφάσισε να το κάνει ανοιχτού κώδικα καθώς δεν ξέρει πάρα πολλά από site develop με σκοπό να μπορεί να αναπτυχθεί το blog χωρίς να υπάρχει το πρόβλημα της μη γνώσης site develop. Μαζί θα τα καταφέρουμε καλύτερα από έναν ειδικό στον προγραμματισμό!
 
-## Contributing
+## Συμβάλλοντας
 
 Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
