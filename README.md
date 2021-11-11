@@ -74,7 +74,7 @@ google_analytics: [Το Google Analytics tracking ID]
 Τα πρότυπα βασίζονται συχνά σε διευθύνσεις URL που παρέχονται από το GitHub, όπως συνδέσμους προς το αποθετήριο σας ή συνδέσμους για λήψη του έργου σας. Εάν θέλετε να αντικαταστήσετε μία ή περισσότερες προεπιλεγμένες διευθύνσεις URL:
 
 1. Κοιτάξτε [την πηγή προτύπου](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) για να προσδιορίσετε το όνομα της μεταβλητής. Θα έχει την μορφή `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+2. Καθορίστε τη διεύθυνση URL που θέλετε να χρησιμοποιεί το πρότυπο στο `_config.yml` του ιστοτόπου σας. For example, if the variable was `site.github.url`, you'd add the following:
     ```yml
     github:
       zip_url: http://example.com/download.zip
