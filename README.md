@@ -1,4 +1,4 @@
-# The Project PAP Survival Blog
+# Σχετικά με το έργο Project PAP Survival Blog
 
 *Το Project PAP Survival Blog είναι ένα blog για να διαβάζετε τα νέα του server μας και φιλοξενείτε από το GitHub Pages. Μπορείτε να [δείτε την επίσημη διανομή αυτού του θέματος εδώ](http://pages-themes.github.io/cayman) και στο μέλλον ίσως φτιάξουμε μια δική μας ξεχωριστή διανομή.*
 
@@ -69,7 +69,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 Η Google έχει κυκλοφορήσει πολλές αλλαγές στον κώδικα του Google Analytics όλα αυτά τα χρόνια από τότε που δημιουργήθηκε για πρώτη φορά αυτό το θέμα. Εάν θέλετε να επωφεληθείτε από τον πιο πρόσφατο κώδικα, επικολλήστε τον στο `_includes/head-custom-google-analytics.html` στον ιστότοπό σας Jekyll.
 
-### Overriding GitHub-generated URLs
+### Παράκαμψη διευθύνσεων URL που δημιουργούνται από το GitHub
 
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
