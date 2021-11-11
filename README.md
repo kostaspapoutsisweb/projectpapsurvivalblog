@@ -52,7 +52,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
     @import "{{ site.theme }}";
     ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+3. Προσθέστε οποιοδήποτε προσαρμοσμένο CSS (ή Sass, συμπεριλαμβανομένων των εισαγωγών) που θέλετε αμέσως μετά τη γραμμή `@import`
 
 *Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
