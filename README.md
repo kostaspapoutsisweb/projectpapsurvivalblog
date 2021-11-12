@@ -106,4 +106,4 @@ google_analytics: [Το Google Analytics tracking ID]
 
 ### Εκτέλεση δοκιμών
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+Το θέμα περιέχει μια ελάχιστη δοκιμαστική σουίτα, για να διασφαλιστεί ότι ένας ιστότοπος με το θέμα θα κατασκευαστεί με επιτυχία. Για να εκτελέσετε τις δοκιμές, απλώς εκτελέστε το `script/cibuild`. Θα χρειαστεί να εκτελέσετε το `script/bootstrap` μία φορά για να λειτουργήσει το δοκιμαστικό σενάριο.
