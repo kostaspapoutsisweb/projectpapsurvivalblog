@@ -47,7 +47,7 @@
 
 ## Πώς να προτείνετε αλλαγές
 
-Here's a few general guidelines for proposing changes:
+Ακολουθούν μερικές γενικές οδηγίες για την πρόταση αλλαγών:
 
 * If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
 * Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).
