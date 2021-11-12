@@ -100,10 +100,10 @@ google_analytics: [Το Google Analytics tracking ID]
 
 1. Κλωνοποιήστε το αποθετήριο αυτό στην συσκευή σας χρησιμοποιώντας την εντολή `git clone https://github.com/kostaspapoutsisweb/projectpapsurvivalblog`.
 2. Γράψτε `cd projectpapsurvivalblog` για να εισέλθετε στον κλονωποιημένο φάκελο.
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+3. Εκτελέστε την εντολή `script/bootstrap` για να εγκαταστήσετε τις απαραίτητες εξαρτήσεις.
+4. Εκτελέστε την εντολή `bundle exec jekyll serve` για να ξεκινήσετε τον τοπικό server προεπισκόπησης.
+5. Επισκεφθείτε το [`localhost:4000`](http://localhost:4000) από τον browser της συσκευής σας για προεπισκόπηση του θέματος.
 
-### Running tests
+### Εκτέλεση δοκιμών
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
