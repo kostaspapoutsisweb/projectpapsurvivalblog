@@ -10,7 +10,7 @@
 
 * Χρήση φιλόξενης και περιεκτικής γλώσσας
 * Σεβασμό στις διαφορετικές απόψεις και εμπειρίες
-* Gracefully accepting constructive criticism
+* Αποδοχή με χάρη της επικοδομητικής κριτικής
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
