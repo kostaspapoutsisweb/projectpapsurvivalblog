@@ -61,8 +61,8 @@
 
 1. [Fork](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/fork) και κλονωποίηση το έργο
 2. Διαμορφώστε και εγκαταστήστε τις εξαρτήσεις: `script/bootstrap`
-3. Make sure the tests pass on your machine: `script/cibuild`
-4. Create a new branch: `git checkout -b my-branch-name`
+3. Βεβαιωθείτε ότι οι δοκιμές περνούν στο μηχάνημά σας: `script/cibuild`
+4. Φτιάξτε ένα νέο branch: `git checkout -b my-branch-name`
 5. Make your change, add tests, and make sure the tests still pass
 6. Push to your fork and [submit a pull request](https://github.com/pages-themes/cayman/compare)
 7. Pat your self on the back and wait for your pull request to be reviewed and merged
