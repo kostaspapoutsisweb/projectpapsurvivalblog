@@ -26,7 +26,7 @@
 
 **Εάν εντοπίσετε ένα θέμα ευπάθειας ασφαλείας, μην ανοίξετε ένα θέμα (issue). Αντίθετα στείλτε μας email στο security@projectpapsurvival.gq.**
 
-## How to suggest a feature or enhancement
+## Πώς να προτείνετε (suggest) ένα χαρακτηριστικό ή μια βελτίωση (enhancement)
 
 If you find yourself wishing for a feature that doesn't exist in the Cayman theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Cayman theme has today have been added because our users saw the need.
 
