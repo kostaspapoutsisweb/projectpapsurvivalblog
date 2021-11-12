@@ -22,7 +22,7 @@
 * Δημοσίευση προσωπικών πληροφοριών άλλων, όπως φυσική ή ηλεκτρονική διεύθυνση, χωρίς ρητή άδεια
 * Άλλη συμπεριφορά που εύλογα θα μπορούσε να θεωρηθεί ακατάλληλη σε επαγγελματικό περιβάλλον
 
-## Our Responsibilities
+## Οι ευθύνες μας
 
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
