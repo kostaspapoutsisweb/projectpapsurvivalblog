@@ -59,7 +59,7 @@
 
 Σε υψηλό επίπεδο [η διαδικασία για την πρόταση αλλαγών](https://guides.github.com/introduction/flow/) (αγγλικά) είναι:
 
-1. [Fork](https://github.com/pages-themes/cayman/fork) and clone the project
+1. [Fork](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/fork) και κλονωποίηση το έργο
 2. Configure and install the dependencies: `script/bootstrap`
 3. Make sure the tests pass on your machine: `script/cibuild`
 4. Create a new branch: `git checkout -b my-branch-name`
