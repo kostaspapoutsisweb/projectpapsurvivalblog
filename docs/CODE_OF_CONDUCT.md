@@ -8,7 +8,7 @@
 
 Παραδείγματα συμπεριφοράς που συμβάλλουν στη δημιουργία ενός θετικού περιβάλλοντος περιλαμβάνουν:
 
-* Using welcoming and inclusive language
+* Χρήση φιλόξενης και περιεκτικής γλώσσας
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
