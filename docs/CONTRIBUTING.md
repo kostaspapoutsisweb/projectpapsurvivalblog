@@ -81,8 +81,7 @@
 
 Αυτό το έργο διέπεται από [τον κώδικα του συμφωνητικού συνεισφέροντος](CODE_OF_CONDUCT.md). Με τη συμμετοχή σας, αναμένεται να διατηρήσετε αυτόν τον κώδικα.
 
-## Additional Resources
-
-* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-* [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
-* [GitHub Help](https://help.github.com)
+## Επιπρόσθετοι πόροι
+* [Συνεισφορά σε ανοιχτό κώδικα στο GitHub](https://guides.github.com/activities/contributing-to-open-source/) (αγγλικά)
+* [Χρήση Pull Requests](https://help.github.com/articles/using-pull-requests/) (αγγλικά)
+* [Βοήθεια GitHub](https://help.github.com) (αγγλικά)
