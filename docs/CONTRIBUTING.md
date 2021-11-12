@@ -79,7 +79,7 @@
 
 ## Κώδικας δεοντολογίας
 
-This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+Αυτό το έργο διέπεται από [τον κώδικα του συμφωνιτηκού συνεισφέροντος](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## Additional Resources
 
