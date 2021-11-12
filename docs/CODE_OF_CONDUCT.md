@@ -14,7 +14,7 @@
 * Εστίαση σε ότι είναι καλύτερο για την κοινότητα
 * Δείξτε ενσυναίσθηση στα άλλα μέλη της κοινότητας
 
-Examples of unacceptable behavior by participants include:
+Παραδείγματα απαράδεκτης συμπεριφοράς από τους συμμετέχοντες περιλαμβάνουν:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
