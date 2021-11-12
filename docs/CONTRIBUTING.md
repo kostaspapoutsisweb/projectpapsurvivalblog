@@ -65,7 +65,7 @@
 4. Φτιάξτε ένα νέο branch: `git checkout -b my-branch-name`
 5. Κάντε την αλλαγή σας, προσθέστε δοκιμές και βεβαιωθείτε ότι οι δοκιμές εξακολουθούν να περνούν
 6. Πηγαίνετε στο forked και [υποβάλλεται ένα pull request](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/compare)
-7. Pat your self on the back and wait for your pull request to be reviewed and merged
+7. Συγχαρητήρια! Τώρα περιμένετε να ελεγχθεί και να ενταχθεί το αίτημά σας στο έργο μας
 
 **Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
