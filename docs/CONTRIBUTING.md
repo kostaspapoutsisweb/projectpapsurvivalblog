@@ -38,7 +38,7 @@
 
 ## Η πρώτη σας συνεισφορά
 
-We'd love for you to contribute to the project. Unsure where to begin contributing to the Cayman theme? You can start by looking through these "good first issue" and "help wanted" issues:
+Θα θέλαμε να συνεισφέρετε στο έργο. Δεν είστε σίγουροι από πού να αρχίσετε να συνεισφέρετε στο Project PAP Survival Blog; Μπορείτε να ξεκινήσετε εξετάζοντας αυτά τα θέματα "καλό πρώτο θέμα" και "ζητείται βοήθεια":
 
 * [Good first issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
 * [Help wanted issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
