@@ -32,7 +32,7 @@
 
 Αυτός ο Κώδικας Δεοντολογίας εφαρμόζεται τόσο στους χώρους του έργου όσο και σε δημόσιους χώρους όταν ένα άτομο εκπροσωπεί το έργο ή την κοινότητά του. Παραδείγματα εκπροσώπησης ενός έργου ή μιας κοινότητας περιλαμβάνουν τη χρήση μιας επίσημης διεύθυνσης ηλεκτρονικού ταχυδρομείου έργου, τη δημοσίευση μέσω ενός επίσημου λογαριασμού μέσων κοινωνικής δικτύωσης ή την ενεργοποίηση ως διορισμένος εκπρόσωπος σε μια διαδικτυακή ή εκτός σύνδεσης εκδήλωση. Η αναπαράσταση ενός έργου μπορεί να οριστεί περαιτέρω και να διευκρινιστεί από τους συντηρητές του έργου.
 
-## Enforcement
+## Επιβολή
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at opensource@github.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
