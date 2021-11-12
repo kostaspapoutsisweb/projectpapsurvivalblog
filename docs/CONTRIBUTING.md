@@ -2,7 +2,7 @@
 
 Γεια σας! Είμαστε ενθουσιασμένοι που θέλετε να συνεισφέρετε στο Project PAP Survival Blog. Η βοήθειά σας είναι απαραίτητη για εμάς.
 
-the Cayman theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into the Cayman theme itself.
+Το Project PAP Survival Blog είναι ένα έργο ανοιχτού κώδικα που υποστηρίζεται από τις προσπάθειες μιας ολόκληρης κοινότητας και δημιουργείται από χρήστες σαν εσάς. Θα θέλαμε να συνεισφέρετε και εσείς. Όποιο κι αν είναι το επίπεδο δεξιοτήτων σας ή ακόμα και αν μπορείτε να αφιερώσετε λίγο χρόνο η συνεισφορά σας θα εκτιμηθεί ιδιαίτερα. Υπάρχουν πολλοί τρόποι για να συνεισφέρετε. Από τη σύνταξη σεμιναρίων για τον τρόπο λειτουργίας, τη βελτίωση της τεκμηρίωσης, την υποβολή αναφορών σφαλμάτων και αιτημάτων για λειτουργίες, τη βοήθεια άλλων χρηστών σχολιάζοντας ζητήματα ή τη σύνταξη κώδικα που μπορεί να ενσωματωθεί στο Project PAP Survival Blog.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
