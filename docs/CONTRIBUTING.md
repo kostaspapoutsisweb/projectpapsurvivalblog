@@ -63,7 +63,7 @@
 2. Διαμορφώστε και εγκαταστήστε τις εξαρτήσεις: `script/bootstrap`
 3. Βεβαιωθείτε ότι οι δοκιμές περνούν στο μηχάνημά σας: `script/cibuild`
 4. Φτιάξτε ένα νέο branch: `git checkout -b my-branch-name`
-5. Make your change, add tests, and make sure the tests still pass
+5. Κάντε την αλλαγή σας, προσθέστε δοκιμές και βεβαιωθείτε ότι οι δοκιμές εξακολουθούν να περνούν
 6. Push to your fork and [submit a pull request](https://github.com/pages-themes/cayman/compare)
 7. Pat your self on the back and wait for your pull request to be reviewed and merged
 
