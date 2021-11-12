@@ -98,7 +98,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
+1. Κλωνοποιήστε το αποθετήριο αυτό στην συσκευή σας χρησιμοποιώντας την εντολή `git clone https://github.com/pages-themes/cayman`.
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server
