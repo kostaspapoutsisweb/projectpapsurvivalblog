@@ -94,12 +94,12 @@ google_analytics: [Το Google Analytics tracking ID]
 
 Ενδιαφέρεστε να συνεισφέρετε στο Project PAP Survival Blog; Θα θέλαμε τη βοήθειά σας. Το Project PAP Survival Blog είναι ένα έργο ανοιχτού κώδικα, που δημιουργείται από χρήστες σαν εσάς. Δείτε [το αρχείο συνεισφοράς](docs/CONTRIBUTING.md) για οδηγίες σχετικά με τον τρόπο συνεισφοράς.
 
-### Προεπισκόπηση του θέματος τοπικά
+### Προεπισκόπηση του θέματος με τις αλλαγές μας τοπικά
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Κλωνοποιήστε το αποθετήριο αυτό στην συσκευή σας χρησιμοποιώντας την εντολή `git clone https://github.com/pages-themes/cayman`.
-2. `cd` into the theme's directory
+1. Κλωνοποιήστε το αποθετήριο αυτό στην συσκευή σας χρησιμοποιώντας την εντολή `git clone https://github.com/kostaspapoutsisweb/projectpapsurvivalblog`.
+2. Γράψτε `cd projectpapsurvivalblog` για να εισέλθετε στον κλονωποιημένο φάκελο.
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server
 5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
