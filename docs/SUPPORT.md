@@ -5,5 +5,5 @@
 Εάν έχετε μια γενική ερώτηση σχετικά με το θέμα, πώς να το εφαρμόσετε ή πώς να το προσαρμόσετε για τον ιστότοπό σας, έχετε τρεις επιλογές:
 
 1. Αναζητήστε το ερώτημά σας στο [`support.github.com`](https://support.github.com/?q=pages+Cayman+theme) το οποίο θα αναζητήσει επίσης παρόμοια θέματα στο [`github.community`](https://github.community/search?q=pages+Cayman+theme)
-2. Ask your question of the Jekyll community on [talk.jekyllrb.com](https://talk.jekyllrb.com/)
+2. Κάντε την ερώτησή σας στην κοινότητα του Jekyll στο [talk.jekyllrb.com](https://talk.jekyllrb.com/)
 3. [Contact GitHub Support](https://github.com/contact?form%5Bsubject%5D=GitHub%20Pages%20theme%20pages-themes/cayman)
