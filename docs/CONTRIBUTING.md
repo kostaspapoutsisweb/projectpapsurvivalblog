@@ -36,7 +36,7 @@
 
 
 
-## Your first contribution
+## Η πρώτη σας συνεισφορά
 
 We'd love for you to contribute to the project. Unsure where to begin contributing to the Cayman theme? You can start by looking through these "good first issue" and "help wanted" issues:
 
