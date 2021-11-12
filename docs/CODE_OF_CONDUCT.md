@@ -39,8 +39,7 @@
 Οι συντηρητές έργων που δεν ακολουθούν ή δεν επιβάλλουν τον Κώδικα Δεοντολογίας με καλή πίστη ενδέχεται να αντιμετωπίσουν προσωρινές ή μόνιμες επιπτώσεις όπως καθορίζονται από άλλα μέλη της ηγεσίας του έργου.
 
 ## Απόδοση
-
-Αυτός ο Κώδικας Δεοντολογίας προσαρμόστηκε από το [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+Αυτός ο Κώδικας Δεοντολογίας προσαρμόστηκε από το [Contributor Covenant][homepage], έκδοση 1.4, διαθέσιμη στο [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
