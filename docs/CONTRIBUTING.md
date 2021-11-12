@@ -28,7 +28,7 @@
 
 ## Πώς να προτείνετε (suggest) ένα χαρακτηριστικό ή μια βελτίωση (enhancement)
 
-If you find yourself wishing for a feature that doesn't exist in the Cayman theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Cayman theme has today have been added because our users saw the need.
+Αν έχετε μια ιδέα για κάποιο χαρακτηριστικό που δεν υπάρχει στο Project PAP Survival Blog προτείνετέ το. Σίγουρα θα υπάρχουν και άλλοι εκεί έξω που να θέλουν να υπάρχει.
 
 Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
 
