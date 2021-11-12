@@ -34,7 +34,7 @@
 
 ## Επιβολή
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at opensource@github.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Περιπτώσεις καταχρηστικής, παρενόχλησης ή άλλης απαράδεκτης συμπεριφοράς μπορούν να αναφερθούν επικοινωνώντας με την ομάδα του έργου στη διεύθυνση open-source@projectpapsurvival.gq. Η ομάδα του έργου θα εξετάσει και θα διερευνήσει όλα τα παράπονα και θα απαντήσει με τρόπο που κρίνει κατάλληλο για τις περιστάσεις. Η ομάδα έργου είναι υποχρεωμένη να τηρεί εμπιστευτικότητα σε σχέση με τον αναφέροντα ενός περιστατικού. Περαιτέρω λεπτομέρειες για συγκεκριμένες πολιτικές επιβολής ενδέχεται να αναρτηθούν χωριστά.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
