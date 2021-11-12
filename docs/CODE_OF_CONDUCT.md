@@ -12,7 +12,7 @@
 * Σεβασμό στις διαφορετικές απόψεις και εμπειρίες
 * Αποδοχή με χάρη της επικοδομητικής κριτικής
 * Εστίαση σε ότι είναι καλύτερο για την κοινότητα
-* Showing empathy towards other community members
+* Δείξτε ενσυναίσθηση στα άλλα μέλη της κοινότητας
 
 Examples of unacceptable behavior by participants include:
 
