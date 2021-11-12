@@ -41,7 +41,7 @@
 Θα θέλαμε να συνεισφέρετε στο έργο. Δεν είστε σίγουροι από πού να αρχίσετε να συνεισφέρετε στο Project PAP Survival Blog; Μπορείτε να ξεκινήσετε εξετάζοντας αυτά τα θέματα "καλό πρώτο θέμα" και "ζητείται βοήθεια":
 
 * [Καλά πρώτα θέματα](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - θέματα που απαιτούν μόνο μερικές γραμμές κώδικα και μια δοκιμή ή δύο (αγγλικά)
-* [Help wanted issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
+* [Θέματα Ζητείται βοήθεια](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - θέματα που μπορεί να είναι λίγο πιο μπερδεμένα, αλλά αναζητούν συγκεκριμένες κοινοτικές συνεισφορές (αγγλικά)
 
 *p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
 
