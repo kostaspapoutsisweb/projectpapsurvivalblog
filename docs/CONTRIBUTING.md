@@ -18,7 +18,7 @@
 Ακολουθούν μερικές συμβουλές για τη σύνταξη *εξαιρετικών* αναφορών σφαλμάτων:
 
 * Περιγράψτε το πρόβλημα ποιο συγκεκριμένα (π.χ. "το γραφικό στοιχείο δεν γυρίζει δεξιόστροφα" αντί "λαμβάνω σφάλμα")
-* Include the steps to reproduce the bug, what you expected to happen, and what happened instead
+* Συμπεριλάβετε τα βήματα για την αναπαραγωγή του σφάλματος, το τι περιμένατε να συμβεί και τι συνέβη
 * Check that you are using the latest version of the project and its dependencies
 * Include what version of the project your using, as well as any relevant dependencies
 * Only include one bug per issue. If you have discovered two bugs, please file two issues
