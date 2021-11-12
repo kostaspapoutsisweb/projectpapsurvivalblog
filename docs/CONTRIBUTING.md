@@ -43,7 +43,7 @@
 * [Καλά πρώτα θέματα](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - θέματα που απαιτούν μόνο μερικές γραμμές κώδικα και μια δοκιμή ή δύο (αγγλικά)
 * [Θέματα Ζητείται βοήθεια](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - θέματα που μπορεί να είναι λίγο πιο μπερδεμένα, αλλά αναζητούν συγκεκριμένες κοινοτικές συνεισφορές (αγγλικά)
 
-*p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
+*υ.γ. Μη διστάσετε να ζητήσετε βοήθεια. όλοι είναι αρχάριοι στην αρχή* :smiley_cat:
 
 ## How to propose changes
 
