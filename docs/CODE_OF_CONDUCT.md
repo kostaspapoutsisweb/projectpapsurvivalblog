@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Κώδικας Συμπεριφοράς Συμφωνητικού Συνεισφέροντος
 
 ## Our Pledge
 
