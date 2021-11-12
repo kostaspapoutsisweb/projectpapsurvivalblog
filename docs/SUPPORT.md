@@ -1,6 +1,6 @@
 ## Πού να ζητήσετε βοήθεια
 
-If you think you've found a bug in the Cayman theme, please [check the existing issues](https://github.com/pages-themes/cayman/issues), and if no one has reported the problem, [open a new issue](https://github.com/pages-themes/cayman/issues/new).
+Αν πιστεύετε ότι έχετε βρει ένα σφάλμα στο Project PAP Survival Blog  [δείτε τα υπάρχοντα θέματα](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues) (issues) και αν δεν υπάρχει [ανοίξτε ένα νέο](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues/new).
 
 If you have a general question about the theme, how to implement it, or how to customize it for your site you have two options:
 
