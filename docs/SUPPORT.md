@@ -1,4 +1,4 @@
-## Where to get help
+## Πού να ζητήσετε βοήθεια
 
 If you think you've found a bug in the Cayman theme, please [check the existing issues](https://github.com/pages-themes/cayman/issues), and if no one has reported the problem, [open a new issue](https://github.com/pages-themes/cayman/issues/new).
 
