@@ -6,7 +6,7 @@
 
 ## Τα πρότυπά μας
 
-Examples of behavior that contributes to creating a positive environment include:
+Παραδείγματα συμπεριφοράς που συμβάλλουν στη δημιουργία ενός θετικού περιβάλλοντος περιλαμβάνουν:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
