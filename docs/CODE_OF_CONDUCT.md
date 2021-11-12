@@ -28,7 +28,7 @@
 
 Οι συντηρητές έργων έχουν το δικαίωμα και την ευθύνη να αφαιρούν, να επεξεργάζονται ή να απορρίπτουν σχόλια, δεσμεύσεις, κώδικα, επεξεργασίες wiki, ζητήματα και άλλες συνεισφορές που δεν συμβαδίζουν με αυτόν τον Κώδικα Δεοντολογίας ή να απαγορεύουν προσωρινά ή μόνιμα οποιονδήποτε συνεισφέρει για άλλες συμπεριφορές που θεωρούνται ακατάλληλες, απειλητικές, προσβλητικές ή επιβλαβής.
 
-## Scope
+## Πεδίο εφαρμογής
 
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
