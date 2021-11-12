@@ -20,7 +20,7 @@
 * Περιγράψτε το πρόβλημα ποιο συγκεκριμένα (π.χ. "το γραφικό στοιχείο δεν γυρίζει δεξιόστροφα" αντί "λαμβάνω σφάλμα")
 * Συμπεριλάβετε τα βήματα για την αναπαραγωγή του σφάλματος, το τι περιμένατε να συμβεί και τι συνέβη
 * Ελέγξτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση του έργου και τις εξαρτήσεις του στην συσκευή σας
-* Include what version of the project your using, as well as any relevant dependencies
+* Συμπεριλάβετε την έκδοση του έργου που χρησιμοποιείτε, καθώς και τυχόν σχετικές εξαρτήσεις
 * Only include one bug per issue. If you have discovered two bugs, please file two issues
 * Even if you don't know how to fix the bug, including a failing test may help others track it down
 
