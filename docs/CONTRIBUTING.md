@@ -49,8 +49,8 @@
 
 Ακολουθούν μερικές γενικές οδηγίες για την πρόταση αλλαγών:
 
-* If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
-* Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).
+* Εάν κάνετε οπτικές αλλαγές, συμπεριλάβετε ένα στιγμιότυπο οθόνης με το πώς φαίνεται το επηρεαζόμενο στοιχείο, τόσο πριν όσο και μετά.
+* Ακολουθήστε τον [οδηγό στυλ Jekyll](https://ben.balter.com/jekyll-style-guide).
 * If you are changing any user-facing functionality, please be sure to update the documentation
 * Each pull request should implement **one** feature or bug fix. If you want to add or fix more than one thing, submit more than one pull request
 * Do not commit changes to files that are irrelevant to your feature or bug fix
