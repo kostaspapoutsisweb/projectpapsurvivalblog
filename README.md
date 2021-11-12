@@ -94,7 +94,7 @@ google_analytics: [Το Google Analytics tracking ID]
 
 Ενδιαφέρεστε να συνεισφέρετε στο Project PAP Survival Blog; Θα θέλαμε τη βοήθειά σας. Το Project PAP Survival Blog είναι ένα έργο ανοιχτού κώδικα, που δημιουργείται από χρήστες σαν εσάς. Δείτε [το αρχείο συνεισφοράς](docs/CONTRIBUTING.md) για οδηγίες σχετικά με τον τρόπο συνεισφοράς.
 
-### Previewing the theme locally
+### Προεπισκόπηση του θέματος τοπικά
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
