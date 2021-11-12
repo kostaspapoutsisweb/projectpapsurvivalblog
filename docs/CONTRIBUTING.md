@@ -69,11 +69,11 @@
 
 **Ενδιαφέρεστε να υποβάλετε το πρώτο σας αίτημα έλξης;** Είναι εύκολο! Μπορείτε να διαβάσετε πως στη *δωρεάν* σειρά [Πως να συνεισφέρετε σε ένα ανοιχτού κώδικα έργο στο GitHub](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github) (αγγλικά)
 
-## Bootstrapping your local development environment
+## Εκκίνηση του τοπικού σας περιβάλλοντος ανάπτυξης
 
 `script/bootstrap`
 
-## Running tests
+## Εκτέλεση δοκιμών
 
 `script/cibuild`
 
