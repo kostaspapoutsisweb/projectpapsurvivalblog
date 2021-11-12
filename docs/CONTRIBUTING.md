@@ -15,7 +15,7 @@
 
 Πιστεύετε ότι εντοπίσατε ένα bug; Παρακαλούμε ελέγξτε [την λίστα με τα ανοιχτά θέματα](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues) (issues) για να δείτε αν αυτό έχει αναφερθεί ήδη. Αν όχι [υποβάλλεται ένα νέο θέμα](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues/new) (issue).
 
-Here are a few tips for writing *great* bug reports:
+Ακολουθούν μερικές συμβουλές για τη σύνταξη *εξαιρετικών* αναφορών σφαλμάτων:
 
 * Describe the specific problem (e.g., "widget doesn't turn clockwise" versus "getting an error")
 * Include the steps to reproduce the bug, what you expected to happen, and what happened instead
