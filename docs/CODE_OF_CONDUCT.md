@@ -30,7 +30,7 @@
 
 ## Πεδίο εφαρμογής
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Αυτός ο Κώδικας Δεοντολογίας εφαρμόζεται τόσο στους χώρους του έργου όσο και σε δημόσιους χώρους όταν ένα άτομο εκπροσωπεί το έργο ή την κοινότητά του. Παραδείγματα εκπροσώπησης ενός έργου ή μιας κοινότητας περιλαμβάνουν τη χρήση μιας επίσημης διεύθυνσης ηλεκτρονικού ταχυδρομείου έργου, τη δημοσίευση μέσω ενός επίσημου λογαριασμού μέσων κοινωνικής δικτύωσης ή την ενεργοποίηση ως διορισμένος εκπρόσωπος σε μια διαδικτυακή ή εκτός σύνδεσης εκδήλωση. Η αναπαράσταση ενός έργου μπορεί να οριστεί περαιτέρω και να διευκρινιστεί από τους συντηρητές του έργου.
 
 ## Enforcement
 
