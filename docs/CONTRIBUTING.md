@@ -54,7 +54,7 @@
 * Εάν αλλάζετε κάποια λειτουργικότητα που αντιμετωπίζει ο χρήστης, φροντίστε να ενημερώσετε την τεκμηρίωση
 * Κάθε αίτημα έλξης θα πρέπει να υλοποιεί **ένα** χαρακτηριστικό ή μια διόρθωση σφαλμάτων. Εάν θέλετε να προσθέσετε ή να διορθώσετε περισσότερα από ένα πράγματα, υποβάλετε περισσότερα από ένα αιτήματα έλξης
 * Μην πραγματοποιείτε αλλαγές σε αρχεία που είναι άσχετα με τη δυνατότητα ή τη διόρθωση σφαλμάτων
-* Don't bump the version number in your pull request (it will be bumped prior to release)
+* Μην προσθέτετε τον αριθμό έκδοσης στο αίτημα έλξης (θα εμφανιστεί πριν από την κυκλοφορία)
 * Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
