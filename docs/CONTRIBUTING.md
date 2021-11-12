@@ -24,7 +24,7 @@
 * Συμπεριλάβετε μόνο ένα σφάλμα ανά θέμα (Issue). Εάν έχετε ανακαλύψει δύο σφάλματα, υποβάλετε δύο θέματα (issues)
 * Ακόμα κι αν δεν ξέρετε πώς να διορθώσετε το σφάλμα, συμπεριλαμβανομένης μιας αποτυχημένης δοκιμής μπορείτε να βοηθήσετε άλλους να το εντοπίσουν
 
-**If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
+**Εάν εντοπίσετε ένα θέμα ευπάθειας ασφαλείας, μην ανοίξετε ένα θέμα (issue). Αντίθετα στείλτε μας email στο security@github.com.**
 
 ## How to suggest a feature or enhancement
 
