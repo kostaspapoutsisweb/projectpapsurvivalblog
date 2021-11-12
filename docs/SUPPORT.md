@@ -2,7 +2,7 @@
 
 Αν πιστεύετε ότι έχετε βρει ένα σφάλμα στο Project PAP Survival Blog  [δείτε τα υπάρχοντα θέματα](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues) (issues) και αν δεν υπάρχει [ανοίξτε ένα νέο](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues/new).
 
-If you have a general question about the theme, how to implement it, or how to customize it for your site you have two options:
+Εάν έχετε μια γενική ερώτηση σχετικά με το θέμα, πώς να το εφαρμόσετε ή πώς να το προσαρμόσετε για τον ιστότοπό σας, έχετε τρεις επιλογές:
 
 1. Search for your query on [`support.github.com`](https://support.github.com/?q=pages+Cayman+theme), which will also look for similar topics on [`github.community`](https://github.community/search?q=pages+Cayman+theme)
 2. Ask your question of the Jekyll community on [talk.jekyllrb.com](https://talk.jekyllrb.com/)
