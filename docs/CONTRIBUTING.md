@@ -21,7 +21,7 @@
 * Συμπεριλάβετε τα βήματα για την αναπαραγωγή του σφάλματος, το τι περιμένατε να συμβεί και τι συνέβη
 * Ελέγξτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση του έργου και τις εξαρτήσεις του στην συσκευή σας
 * Συμπεριλάβετε την έκδοση του έργου που χρησιμοποιείτε, καθώς και τυχόν σχετικές εξαρτήσεις
-* Only include one bug per issue. If you have discovered two bugs, please file two issues
+* Συμπεριλάβετε μόνο ένα σφάλμα ανά θέμα (Issue). Εάν έχετε ανακαλύψει δύο σφάλματα, υποβάλετε δύο θέματα (issues)
 * Even if you don't know how to fix the bug, including a failing test may help others track it down
 
 **If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
