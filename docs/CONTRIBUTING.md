@@ -67,7 +67,7 @@
 6. Πηγαίνετε στο forked και [υποβάλλεται ένα pull request](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/compare)
 7. Συγχαρητήρια! Τώρα περιμένετε να ελεγχθεί και να ενταχθεί το αίτημά σας στο έργο μας
 
-**Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+**Ενδιαφέρεστε να υποβάλετε το πρώτο σας αίτημα έλξης;** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 ## Bootstrapping your local development environment
 
