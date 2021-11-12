@@ -45,7 +45,7 @@
 
 *υ.γ. Μη διστάσετε να ζητήσετε βοήθεια. όλοι είναι αρχάριοι στην αρχή* :smiley_cat:
 
-## How to propose changes
+## Πώς να προτείνετε αλλαγές
 
 Here's a few general guidelines for proposing changes:
 
