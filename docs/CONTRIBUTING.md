@@ -30,7 +30,7 @@
 
 Αν έχετε μια ιδέα για κάποιο χαρακτηριστικό που δεν υπάρχει στο Project PAP Survival Blog προτείνετέ το. Σίγουρα θα υπάρχουν και άλλοι εκεί έξω που να θέλουν να υπάρχει.
 
-Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
+Οι προτάσεις για δυνατότητες είναι ευπρόσδεκτες. Αλλά αφιερώστε λίγο χρόνο για να σκεφτείτε εάν η ιδέα σας ταιριάζει με το εύρος και τους στόχους του έργου. Εναπόκειται σε εσάς να υποστηρίξετε μια ισχυρή υπόθεση για να πείσετε τους προγραμματιστές του έργου για τα πλεονεκτήματα αυτής της δυνατότητας. Δώστε όσο το δυνατόν περισσότερες λεπτομέρειες συμπεριλαμβανομένης της περιγραφής του προβλήματος που προσπαθείτε να λύσετε.
 
 [Open an issue](https://github.com/pages-themes/cayman/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
 
