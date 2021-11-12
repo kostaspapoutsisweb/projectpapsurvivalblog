@@ -57,7 +57,7 @@
 * Μην προσθέτετε τον αριθμό έκδοσης στο αίτημα έλξης (θα εμφανιστεί πριν από την κυκλοφορία)
 * Γράψτε [ένα καλό μήνυμα δέσμευσης](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) (αγγλικά)
 
-At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
+Σε υψηλό επίπεδο [η διαδικασία για την πρόταση αλλαγών](https://guides.github.com/introduction/flow/) (αγγλικά) είναι:
 
 1. [Fork](https://github.com/pages-themes/cayman/fork) and clone the project
 2. Configure and install the dependencies: `script/bootstrap`
