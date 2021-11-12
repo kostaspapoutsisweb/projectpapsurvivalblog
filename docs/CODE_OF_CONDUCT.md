@@ -16,7 +16,7 @@
 
 Παραδείγματα απαράδεκτης συμπεριφοράς από τους συμμετέχοντες περιλαμβάνουν:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* Η χρήση σεξουαλικής γλώσσας ή εικόνων και ανεπιθύμητη σεξουαλική προσοχή
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
