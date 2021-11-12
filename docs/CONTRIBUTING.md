@@ -1,4 +1,4 @@
-# Contributing to the Cayman theme
+# Συνεισφορά στο Project PAP Survival Blog
 
 Hi there! We're thrilled that you'd like to contribute to the Cayman theme. Your help is essential for keeping it great.
 
