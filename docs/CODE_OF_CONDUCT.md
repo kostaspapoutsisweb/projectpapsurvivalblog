@@ -11,7 +11,7 @@
 * Χρήση φιλόξενης και περιεκτικής γλώσσας
 * Σεβασμό στις διαφορετικές απόψεις και εμπειρίες
 * Αποδοχή με χάρη της επικοδομητικής κριτικής
-* Focusing on what is best for the community
+* Εστίαση σε ότι είναι καλύτερο για την κοινότητα
 * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
