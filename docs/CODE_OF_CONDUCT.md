@@ -2,7 +2,7 @@
 
 ## Η υπόσχεσή μας
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Προς το συμφέρον της προώθησης ενός ανοιχτού και φιλόξενου περιβάλλοντος, εμείς ως συντελεστές και συντηρητές δεσμευόμαστε να κάνουμε τη συμμετοχή στο έργο μας και την κοινότητά μας μια άριστη εμπειρία για όλους, ανεξαρτήτως ηλικίας, μεγέθους σώματος, αναπηρίας, εθνικότητας, ταυτότητας φύλου και έκφρασης, επίπεδο εμπειρίας, εθνικότητα, προσωπική εμφάνιση, φυλή, θρησκεία ή σεξουαλική ταυτότητα και προσανατολισμό.
 
 ## Our Standards
 
