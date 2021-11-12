@@ -11,9 +11,9 @@
 
 Καθώς εκτιμούμε ιδιαίτερα την συνεισφορά σας δεν σας αφήνουμε έτσι και λατρεύουμε να σας βοηθήσουμε και εμείς. Μπορείτε να δείτε [τις οδηγίες υποστήριξης εδώ](SUPPORT.md).
 
-## How to report a bug
+## Πως να αναφέρεται ένα bug
 
-Think you found a bug? Please check [the list of open issues](https://github.com/pages-themes/cayman/issues) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/cayman/issues/new).
+Πιστεύετε ότι εντοπίσατε ένα bug; Παρακαλούμε ελέγξτε [την λίστα με τα ανοιχτά θέματα](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues) (issues) για να δείτε αν αυτό έχει αναφερθεί ήδη. Αν όχι [υποβάλλεται ένα νέο θέμα](https://github.com/kostaspapoutsisweb/projectpapsurvivalblog/issues/new) (issue).
 
 Here are a few tips for writing *great* bug reports:
 
