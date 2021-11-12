@@ -17,7 +17,7 @@
 
 Ακολουθούν μερικές συμβουλές για τη σύνταξη *εξαιρετικών* αναφορών σφαλμάτων:
 
-* Describe the specific problem (e.g., "widget doesn't turn clockwise" versus "getting an error")
+* Περιγράψτε το πρόβλημα ποιο συγκεκριμένα (π.χ. "το γραφικό στοιχείο δεν γυρίζει δεξιόστροφα" αντί "λαμβάνω σφάλμα")
 * Include the steps to reproduce the bug, what you expected to happen, and what happened instead
 * Check that you are using the latest version of the project and its dependencies
 * Include what version of the project your using, as well as any relevant dependencies
